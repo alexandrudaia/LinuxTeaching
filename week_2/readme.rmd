@@ -1,0 +1,2 @@
+Now we'll get into the power of different Unix tools. We'll walk through several scenarios where you could use Unix to perform 
+tasks at a much faster speed than you would be able to normally.
